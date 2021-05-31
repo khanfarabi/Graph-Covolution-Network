@@ -1,1 +1,3 @@
 # Graph-Covolution-Network
+
+In this project, I have implemented Graph Convolution Networks (GCN) using python. I have tried to explain the prediction made by GNN using the first-order-logic formulas in Markov Logic Networks (MLN). GCN is a deep learning model that uses the relational knowledge to perform the inference. However, it is hard to explain the predictions made by deep models. In this project, I have incorporated MLN to describe the inference outcomes made by GCN. The project work is still in progress. In future, the new explanation algorithms will be added. I have used publicly available cora data set. 
