@@ -6,6 +6,9 @@ In this project, I have implemented Graph Convolution Networks (GCN) using pytho
 In order to get CORA MLN explanation for the prdiction, you have run MLN__Cora_explanation() command and to get GCN outcomes you have to run GCN_Result()  command
 
 # Software requirements
-The following software is required:
+The following softwares are required:
 1. Python 3
 2. Jupyter Notebook
+3. GCN pckages: stellargraph,stellargraph.mapper,stellargraph.layer
+4. Tensflow packages: tensorflow.keras
+5. IPython.display packages need to be installed
