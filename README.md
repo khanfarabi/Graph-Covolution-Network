@@ -3,7 +3,7 @@
 In this project, I have implemented Graph Convolution Networks (GCN) using python. I have tried to explain the prediction made by GNN using the first-order-logic formulas in Markov Logic Networks (MLN). GCN is a deep learning model that uses the relational knowledge to perform the inference. However, it is hard to explain the predictions made by deep models. In this project, I have incorporated MLN to describe the inference outcomes made by GCN. The project work is still in progress. In future, the new explanation algorithms will be added. I have used publicly available cora data set. 
 
 # Running Program
-In GCN_Project.ipynb  notebook he code of Gibbs sampling based  MLN approach is implemented in the first part.
+In GCN_Project.ipynb  notebook the code of Gibbs sampling based  MLN approach is implemented in the first part.
 
 To implement GCN, I have used the code from https://stellargraph.readthedocs.io/en/v1.0.0rc1/demos/node-classification/gcn/gcn-cora-node-classification-example.html
 
