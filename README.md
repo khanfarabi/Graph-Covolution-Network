@@ -5,6 +5,8 @@ In this project, I have implemented Graph Convolution Networks (GCN) using pytho
 # Running Program
 In GCN_Project.ipynb  notebook he code of Gibbs sampling based  MLN approach is implemented in the first part.
 
+To implement GCN, I have used the code from https://stellargraph.readthedocs.io/en/v1.0.0rc1/demos/node-classification/gcn/gcn-cora-node-classification-example.html
+
 You have to  run the following command_1 and command_2 respectively in the 
 GCN_Project.ipynb  notebook:
 
